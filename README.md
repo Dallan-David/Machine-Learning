@@ -7,7 +7,7 @@
 1.   numpy / pandas: manipulación de datos
 1.   matplotlib / seaborn: visualización
 2.   sickit - learn: machine learning (modelo de procesamiento y clasificación binaria)
-2.   Dataset: usamos el dataset de cáncer de mama de wisconsin
+2.   Dataset: usamos el dataset de cáncer de mama de wisconsin 🎗️
 ______________________________________________________
 ### **Características**
 *   30 características numéricas
