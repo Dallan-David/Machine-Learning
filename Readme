@@ -20,14 +20,14 @@ _______________________________________________________
 2.   Matriz de confusión del modelo
 2.   Importancia de características (top 10)
 
-_______________________________________________________
+____________________________________________
 
 ### **Modelo de machine learning** 🧠
 
 *   **Random forest:** algoritmo potente para clasificación
 *   **Procesamietno** escalado estandar de características
 *   **Evaluación:** reporte de clasificación, precisión, matriz de clasificación
- _____________________________________________________
+ __________________________________________
 
 ### **¿Cómo ejecutarlo?** 👨🏻‍💻👨🏻‍💻🦾🚀
 1.   Copia este código en un jupyter notebook o script.py
@@ -40,7 +40,7 @@ _______________________________________________________
      pip install sickit-learn
      ```
 3.   Copia y pega este código en tu terminal o ejecuta celda por celdaen tu jupyter
-_____________________________________________________
+____________________________________
 ### **Posibles mejoras**
 - Ajuste hiperparámetros con GridSearchCV
 - Validación cruzada
