@@ -2,6 +2,9 @@
 
 # **Explicación del código:**
 
+ <img src="https://copilot.microsoft.com/th/id/BCO.53fa3e52-d816-42fe-b04a-cd9bb8c7b482.png" width= "150"
+ height="200">
+
 
 ### **Librerías utilizadas en la codificación** 📚
 1.   numpy / pandas: manipulación de datos
